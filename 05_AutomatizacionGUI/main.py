@@ -1,0 +1,1 @@
+# Manejo libreria pyautogui
